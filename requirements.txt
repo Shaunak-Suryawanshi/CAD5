@@ -1,0 +1,6 @@
+Pillow
+ezdxf
+numpy
+matplotlib
+pytest
+flake8
