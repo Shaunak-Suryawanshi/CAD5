@@ -4,3 +4,4 @@ numpy
 matplotlib
 pytest
 flake8
+trimesh
